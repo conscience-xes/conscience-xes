@@ -24,5 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vnoted&show_icons=true&locale=en" alt="vnoted" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vnoted&" alt="vnoted" /></p>
-
