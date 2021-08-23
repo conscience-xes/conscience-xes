@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vnoted" alt="vnoted" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F375206212681302825%2F&psig=AOvVaw02Lc5LvZHqlrosQKbODamE&ust=1629792471072000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIiZ4J7YxvICFQAAAAAdAAAAABAJ">
+
 - 👨‍💻 All of my projects are available at [https://github.com/Vnoted](https://github.com/Vnoted)
 
 - 📫 How to reach me **Discord - Xen#9966**
