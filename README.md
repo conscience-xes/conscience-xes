@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Xen</h1>
 <h3 align="center">A passionate learning developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vnoted&label=Profile%20views&color=0e75b6&style=flat" alt="vnoted" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VnT-Dead&label=Profile%20views&color=0e75b6&style=flat" alt="VnT-Dead" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vnoted" alt="vnoted" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VnT-Dead" alt="VnT-Dead" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/vnt_dead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vnt_noted" height="30" width="40" /></a>
+<a href="https://instagram.com/vnt_dead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vnt_dead" height="30" width="40" /></a>
 <a href="https://discord.gg/CUq4Ghr9fe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CUq4Ghr9fe" height="30" width="40" /></a>
 </p>
 
