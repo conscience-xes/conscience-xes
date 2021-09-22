@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VnT-Dead](https://github.com/VnT-Dead)
 
-- 📫 How to reach me **Discord - Xen#9966**
+- 📫 How to reach me **Discord - X E N#9797**
 
 - ⚡ Fun fact **I write quotes..**
 
