@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xen</h1>
+<h1 align="center">Hi 👋, I'm Mivu</h1>
 <h3 align="center">A passionate learning developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VnT-Dead&label=Profile%20views&color=0e75b6&style=flat" alt="VnT-Dead" /> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VnT-Dead](https://github.com/VnT-Dead)
 
-- 📫 How to reach me **Discord - X E N#9797**
+- 📫 How to reach me **Discord - M I V U#6666**
 
 - ⚡ Fun fact **I write quotes..**
 
