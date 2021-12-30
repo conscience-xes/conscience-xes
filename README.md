@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Discord - xen?#6563**
 
-- ⚡ Fun fact **nothing**
+- ⚡ Fun fact - **I Play Valorant?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
