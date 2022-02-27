@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vntxen](https://github.com/vntxen)
 
-- 📫 How to reach me **Discord - xen?#6563**
+- 📫 How to reach me **Discord - Xen廴#6969**
 
 - ⚡ Fun fact - **I Play Valorant?**
 
